@@ -7,21 +7,21 @@
             "mod": "Spica",
             "board": "GT-I5700",
             "type": "rom",
-            "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.3",
-            "version": "6.1.0-RC0-alpha6.3",
-            "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-3-a-2697/",
+            "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.4",
+            "version": "6.1.0-RC0-alpha6.4",
+            "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-4-a-2749/|Updated CyanogenMod sources from github to recent version|Applied volume control patch [vflashbirdv/DE-NISkA]|Google apps update: 20101008|Using Android/CyanogenMod Bluetooth with hacked brcm_patchram_plus|Using Androbot's Gallery3D instead of CM's|/system is now read-only, added ext&rfs supported remount command",
             "branch": "X",
-            "filename": "CM-6.1.0-Spica-a6.3_update.zip"
+            "filename": "CM-6.1.0-Spica-a6.4_update.zip"
         },
     {   
             "mod": "Spica",
             "board": "GT-I5700",
             "type": "rom",
-            "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.4",
-            "version": "6.1.0-RC0-alpha6.4",
-            "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-4-a-2749/",
+            "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.3",
+            "version": "6.1.0-RC0-alpha6.3",
+            "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-3-a-2697/|Updated CyanogenMod sources from github to recent version|rild port phase #1: using own rild with Samsung's libril.so -- needs testing|Fixed ARM optimalizations|Using DE-NISkA's sound sources -- please test it!|Applied qbanin's 1% step battery driver|Added antibyte/Xmister's recovery for better ext2/ext4 compatibility -- needs testing|Some init.rc fixes [ch33kybutt]",
             "branch": "X",
-            "filename": "CM-6.1.0-Spica-a6.4_update.zip"
+            "filename": "CM-6.1.0-Spica-a6.3_update.zip"
         }
 
     ]
