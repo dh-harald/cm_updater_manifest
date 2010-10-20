@@ -7,6 +7,16 @@
             "mod": "Spica",
             "board": "GT-I5700",
             "type": "rom",
+            "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.5",
+            "version": "CyanogenMod-6.1.0-RC0-alpha6.5",
+            "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-5-a-2812/|Updated CyanogenMod sources from github to recent version|Added more sound routes to BT headsets [DE-NISkA]|Add baudrate to speedup BT|Corrected directions for accel, pitch, roll (DE-NISkA)|Some script fixes: remount|Delete 98bthack, we don't need it",
+            "branch": "S",
+            "filename": "CM-6.1.0-Spica-a6.5_update.zip"
+        },
+    {   
+            "mod": "Spica",
+            "board": "GT-I5700",
+            "type": "rom",
             "name": "CyanogenMod-6.1.0-RC0-Spica-alpha6.4",
             "version": "CyanogenMod-6.1.0-RC0-alpha6.4",
             "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc0-spica-aplha6-4-a-2749/|Updated CyanogenMod sources from github to recent version|Applied volume control patch [vflashbirdv/DE-NISkA]|Google apps update: 20101008|Using Android/CyanogenMod Bluetooth with hacked brcm_patchram_plus|Using Androbot's Gallery3D instead of CM's|/system is now read-only, added ext&rfs supported remount command",
