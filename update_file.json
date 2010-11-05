@@ -7,6 +7,16 @@
             "mod": "Spica",
             "board": "GT-I5700",
             "type": "rom",
+            "name": "CyanogenMod-6.1.0-RC1-Spica-alpha7.1",
+            "version": "CyanogenMod-6.1.0-RC1-alpha7.1",
+            "description": "Visit http://forum.samdroid.net/f56/cyanogenmod-6-1-0-rc1-spica-alpha7-1-3031/|Updated CyanogenMod sources from github|Added multitouch driver 2.4 [Gabriel-LG]|Update Xmister's recovery|AppsOnSD is working (thanks for hotchili some rumor)|Sensor fixes [cadavre]|Possible Camera fix|Improved vibrator driver [Gabriel-LG]|video record color issue, voicedialer fix [vflashbird]|Google apps update: 20101020",
+            "branch": "S",
+            "filename": "CM-6.1.0-Spica-a7.1_update.zip"
+        },
+    {   
+            "mod": "Spica",
+            "board": "GT-I5700",
+            "type": "rom",
             "name": "CyanogenMod-6.1.0-RC1-Spica-alpha7",
             "version": "CyanogenMod-6.1.0-RC1-alpha7",
             "description": "Visit http://forum.samdroid.net/f53/cyanogenmod-6-1-0-rc1-spica-alpha7-2932/|Updated CyanogenMod sources to 6.1.0-RC1|Applied video recording patch for camcoder [vflashbirdv]|Applied audio recording patch for compressed audio format [vflashbirdv]|Back to 5% battery driver|Applied kernel patches: memory control tweak, sound fix [antibyte]|Some installd & application install fix",
