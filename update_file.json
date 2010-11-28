@@ -7,6 +7,16 @@
             "mod": "Spica",
             "board": "GT-I5700",
             "type": "rom",
+            "name": "CyanogenMod-6.1.0-RC1-Spica-alpha7.4",
+            "version": "CyanogenMod-6.1.0-RC1-alpha7.4",
+            "description": "Visit http://forum.samdroid.net/f56/cyanogenmod-6-1-0-rc1-spica-alpha7-3-a-3278/|Updated CyanogenMod sources from github|Using kernel: kCriminal.r2 2.6.29.6",
+            "branch": "S",
+            "filename": "CM-6.1.0-Spica-a7.4_update.zip"
+        },
+    {   
+            "mod": "Spica",
+            "board": "GT-I5700",
+            "type": "rom",
             "name": "CyanogenMod-6.1.0-RC1-Spica-alpha7.3",
             "version": "CyanogenMod-6.1.0-RC1-alpha7.3",
             "description": "Visit http://forum.samdroid.net/f56/cyanogenmod-6-1-0-rc1-spica-alpha7-3-a-3138/|Updated CyanogenMod sources from github|armv6-vfp optimalisation|Applied vflashbirdv's sound record and camcoder fix|Using 100% CM wifi implementation (thanks to funman)|Updated Ultimate Spica Recovery|Sensor updates: compass is working! [cadavre]",
